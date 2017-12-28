@@ -1,5 +1,7 @@
 # Prettier
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/m1ck2/prettier1.svg)](https://greenkeeper.io/)
+
 [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/jlongster/prettier)
 [![Build Status](https://travis-ci.org/prettier/prettier.svg?branch=master)](https://travis-ci.org/prettier/prettier)
 [![NPM version](https://img.shields.io/npm/v/prettier.svg)](https://www.npmjs.com/package/prettier)
